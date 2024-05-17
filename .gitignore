@@ -1,0 +1,10 @@
+# ignore ALL .log files
+*.log
+*.pub
+2
+w3schools-test.github.io/
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+
